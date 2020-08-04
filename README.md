@@ -1,6 +1,6 @@
 # Texture04
 
-# 修改顶点着色器,纹理坐标
+# 修改顶点着色器,纹理坐标(配置见：shaderv.vsh 文件)
 
 attribute vec4 position;
 
